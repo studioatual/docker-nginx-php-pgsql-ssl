@@ -1,2 +1,3 @@
+.docker/db
 .docker/nginx/server.pem
 .docker/nginx/server-key.pem
